@@ -1,0 +1,26 @@
+name: 🐛 Bug
+description: Something is not working as expected
+title: '[Bug]: '
+labels: ['bug']
+body:
+  - type: textarea
+    attributes:
+      label: What happened
+      placeholder: Describe the issue
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+
+  - type: input
+    attributes:
+      label: Environment
+      placeholder: Browser, OS, version

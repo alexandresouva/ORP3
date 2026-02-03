@@ -1,0 +1,14 @@
+name: 🧹 Chore
+description: Maintenance, tooling, or cleanup
+title: '[Chore]: '
+labels: ['chore']
+body:
+  - type: textarea
+    attributes:
+      label: What
+      placeholder: What needs to be done?
+
+  - type: textarea
+    attributes:
+      label: Why
+      placeholder: Reason or motivation
