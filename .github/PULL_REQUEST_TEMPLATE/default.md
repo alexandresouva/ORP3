@@ -1,8 +1,8 @@
 ## What
 
-Brief summary of the change.
+Brief and clear summary of what was changed.
 
-### Printscreen
+### Screenshot
 
 Required for UI changes. Optional otherwise.
 
@@ -28,7 +28,7 @@ Closes #
 
 ## Checklist
 
-- [ ] Code follows project standards
+- [ ] Code follows project standards and conventions
 - [ ] Tests added or updated (if applicable)
 - [ ] Manual validation performed
-- [ ] Docs updated if needed
+- [ ] Documentation updated (if needed)

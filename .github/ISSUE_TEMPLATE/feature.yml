@@ -1,0 +1,21 @@
+name: ✨ Feature
+description: New feature or improvement
+title: '[Feature]: '
+labels: ['feature']
+body:
+  - type: textarea
+    attributes:
+      label: What
+      description: What should be built?
+      placeholder: Clearly describe the feature or change
+
+  - type: textarea
+    attributes:
+      label: Why
+      description: Context or motivation
+      placeholder: Why is this feature needed?
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: Technical notes, constraints, or open questions (optional)
