@@ -17,11 +17,5 @@ body:
 
   - type: textarea
     attributes:
-      label: How
-      description: High-level approach or solution
-      placeholder: Describe the intended solution at a high level
-
-  - type: textarea
-    attributes:
       label: Notes
       description: Technical notes, constraints, or open questions (optional)
