@@ -14,14 +14,6 @@ Context or motivation for this change.
 
 High-level explanation of the solution.
 
-## Scope
-
-- [ ] Feature
-- [ ] Bugfix
-- [ ] Refactor
-- [ ] Chore
-- [ ] Style
-
 ## Linked Issue
 
 Closes #
