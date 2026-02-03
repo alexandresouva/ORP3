@@ -12,3 +12,8 @@ body:
     attributes:
       label: Why
       placeholder: Reason or motivation
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: Technical notes, constraints, or open questions (optional)
