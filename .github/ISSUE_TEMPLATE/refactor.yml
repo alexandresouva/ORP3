@@ -1,0 +1,22 @@
+name: ♻️ Refactor
+description: Code improvement without changing behavior
+title: '[Refactor]: '
+labels: ['refactor']
+body:
+  - type: textarea
+    attributes:
+      label: What
+      description: What should be refactored?
+      placeholder: Describe the part of the code that needs refactoring
+
+  - type: textarea
+    attributes:
+      label: Why
+      description: Why is this refactor necessary?
+      placeholder: Motivation, technical debt, readability, performance, etc.
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: Constraints, risks, or references (optional)
+      placeholder: Optional additional context
